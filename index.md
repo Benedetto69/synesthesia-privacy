@@ -1,40 +1,43 @@
-# Privacy Policy – Synesthesia
+# Privacy Policy – Synesthesia & Synesthesia Vision
 
-Last updated: 2026-03-07
+Last updated: 2026-03-08
 
-Synesthesia does not require account creation and does not collect personally identifiable information.
+This policy applies to **Synesthesia** (iOS) and **Synesthesia Vision** (Apple Vision Pro).
+
+Neither app requires account creation or collects personally identifiable information.
 
 ## Data collected
 
-Images, sounds, and notes you create remain on your device. No data is sent to external servers.
+Colors, sounds, and notes you create remain on your device. No data is sent to external servers.
 
-## Camera and Photos
+## Camera
 
-The camera is used to capture the dominant color of a scene. Photos access is used to save and share the images you create.
+On iOS, the camera captures the dominant color of a scene. On Apple Vision Pro, the passthrough camera is used for the same purpose via ARKit. No images are stored or transmitted — only the extracted color values are saved locally.
 
 ## Location
 
-If enabled, the app saves the location where a synesthesia was captured to display it on the map. Location data remains on the device and is never transmitted.
+If enabled, the app saves the location where a color was captured. Location data remains on the device and is never transmitted.
 
 ## Sharing
 
-You can manually share your synesthesias using the Share feature (Cards, Story Cards, QR prints). The delivery and handling of shared content depends on the app or service you choose.
+You can manually share your synesthesias using the Share feature. The delivery and handling of shared content depends on the app or service you choose.
 
 ## In-App Purchases
 
-Subscription management is handled by RevenueCat. RevenueCat may collect anonymous purchase data. See [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/).
+- **iOS**: Subscription management is handled by RevenueCat. RevenueCat may collect anonymous purchase data. See [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/).
+- **Vision Pro**: Subscriptions are managed via Apple StoreKit 2. No third-party service is involved.
 
-## Backup
+## Spatial Audio & Hand/Eye Tracking (Vision Pro)
 
-The app allows manual export of an encrypted backup. Backups are not automatically synced to external servers.
-
-## Notifications
-
-If enabled, the app schedules local notifications (daily challenge, streak reminders). These are processed entirely on-device.
+Synesthesia Vision uses spatial audio and may use hand tracking for interaction. All sensor data is processed on-device in real time and is never stored or transmitted.
 
 ## Data deletion
 
-You can delete all saved synesthesias at any time from within the app.
+You can delete all saved data at any time from within the app.
+
+## Children's Privacy
+
+The apps do not knowingly collect data from children under 13.
 
 ## Contact
 
@@ -42,43 +45,46 @@ For privacy questions: support@benedettoriba.com
 
 ---
 
-# Informativa sulla Privacy – Synesthesia
+# Informativa sulla Privacy – Synesthesia e Synesthesia Vision
 
-Ultimo aggiornamento: 07-03-2026
+Ultimo aggiornamento: 08-03-2026
 
-Synesthesia non richiede la creazione di un account e non raccoglie dati personali identificabili.
+Questa informativa si applica a **Synesthesia** (iOS) e **Synesthesia Vision** (Apple Vision Pro).
+
+Nessuna delle due app richiede la creazione di un account o raccoglie dati personali identificabili.
 
 ## Dati raccolti
 
-Le immagini, i suoni e le note create restano sul dispositivo. Nessun dato viene inviato a server esterni.
+I colori, i suoni e le note create restano sul dispositivo. Nessun dato viene inviato a server esterni.
 
-## Fotocamera e Foto
+## Fotocamera
 
-La fotocamera serve a catturare il colore dominante di una scena. L'accesso alle Foto serve per salvare e condividere le immagini create.
+Su iOS, la fotocamera cattura il colore dominante di una scena. Su Apple Vision Pro, la fotocamera passthrough viene usata per lo stesso scopo tramite ARKit. Nessuna immagine viene salvata o trasmessa — solo i valori di colore estratti vengono salvati localmente.
 
 ## Posizione
 
-Se abilitata, l'app salva la posizione dove è stata catturata una sinestesia per mostrarla sulla mappa. I dati di posizione restano sul dispositivo e non vengono mai trasmessi.
+Se abilitata, l'app salva la posizione dove e' stato catturato un colore. I dati di posizione restano sul dispositivo e non vengono mai trasmessi.
 
 ## Condivisione
 
-L'utente può condividere le proprie sinestesie tramite la funzione Condividi (Card, Story Card, Stampe QR). L'invio e la gestione dei contenuti dipendono dall'app o dal servizio scelto.
+L'utente puo' condividere le proprie sinestesie tramite la funzione Condividi. L'invio e la gestione dei contenuti dipendono dall'app o dal servizio scelto.
 
 ## Acquisti in-app
 
-La gestione degli abbonamenti è affidata a RevenueCat. RevenueCat può raccogliere dati anonimi sugli acquisti. Vedi [Privacy Policy di RevenueCat](https://www.revenuecat.com/privacy/).
+- **iOS**: La gestione degli abbonamenti e' affidata a RevenueCat. RevenueCat puo' raccogliere dati anonimi sugli acquisti. Vedi [Privacy Policy di RevenueCat](https://www.revenuecat.com/privacy/).
+- **Vision Pro**: Gli abbonamenti sono gestiti tramite Apple StoreKit 2. Nessun servizio di terze parti e' coinvolto.
 
-## Backup
+## Audio Spaziale e Hand/Eye Tracking (Vision Pro)
 
-L'app consente l'esportazione manuale di un backup cifrato. I backup non vengono sincronizzati automaticamente su server esterni.
-
-## Notifiche
-
-Se abilitate, l'app programma notifiche locali (sfida del giorno, promemoria streak). Vengono elaborate interamente sul dispositivo.
+Synesthesia Vision utilizza audio spaziale e potrebbe usare hand tracking per l'interazione. Tutti i dati dei sensori vengono elaborati sul dispositivo in tempo reale e non vengono mai salvati o trasmessi.
 
 ## Cancellazione dati
 
-L'utente può cancellare in qualsiasi momento tutte le sinestesie salvate dall'interno dell'app.
+L'utente puo' cancellare in qualsiasi momento tutti i dati salvati dall'interno dell'app.
+
+## Privacy dei minori
+
+Le app non raccolgono consapevolmente dati da minori di 13 anni.
 
 ## Contatti
 
